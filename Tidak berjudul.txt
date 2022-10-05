@@ -1,0 +1,11 @@
+
+<?php
+x <- c("Andi","Iwan", "Adi")
+if("$Rina" %in% x){
+  echo("Rina ditemukan")
+} else if("$Adi" %in% x){
+  echo("Adi ditemukan")
+} else{
+  echo("tidak ada yang ditemukan")
+}
+<?
